@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>enPiT WiT Blog</title>
+    <description>Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 18 Jan 2017 16:27:22 +0900</pubDate>
+    <lastBuildDate>Wed, 18 Jan 2017 16:27:22 +0900</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>第7回定例会「女性ＩＴ技術者・研究者のロールモデル！？」を開催しました。</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/wit2.png&quot; alt=&quot;wit2.png&quot; /&gt;
+12月20日(火) ランチタイムを使って、
+第7回定例会「女性ＩＴ技術者・研究者のロールモデル！？」を開催しました。&lt;/p&gt;
+
+&lt;p&gt;今回も定例会はオンライン(Skype&amp;amp;ニコニコ生放送)でランチタイム（12:15-13:00）に開催しています。&lt;/p&gt;
+
+&lt;p&gt;今回のテーマは、前回の定例会で「ロールモデルっている？いた？どう？」という話題があり、
+よし、掘り下げて考えてみよう、ということで議論がスタート。&lt;/p&gt;
+
+&lt;p&gt;事前のアンケートでは、
+ロールモデルが必要だ、と答えた人は10人中6人。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/wit3.png&quot; alt=&quot;wit3.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ロールモデルが必要な理由として、
+* 指針があると迷わないから
+* 男女を問わず、目指す人がいた方が前に進みやすいと思うから
+* 自己発見のキッカケになる&lt;/p&gt;
+
+&lt;p&gt;といった意見がありました。&lt;/p&gt;
+
+&lt;p&gt;一方で、ロールモデルが必要がない、と答えた理由は、
+* 人によって環境や条件が違うから参考にならない
+* ロールモデルがいないことを悪い意味でのエクスキューズにすることがある&lt;/p&gt;
+
+&lt;p&gt;と、生き方・働き方の幅を示唆する回答が。&lt;/p&gt;
+
+&lt;p&gt;実際にロールモデルがいるか？
+というアンケートに対しては、
+* ひとりの人ではなく出会った全ての人
+* 大学時代の友人、
+* 誰か一人ではなく、いろんな人のオイシイとこ取りで参考にしてる、
+* ＩＴ業界以外でも参考にしてる人がいる&lt;/p&gt;
+
+&lt;p&gt;などなど色んな意見が出ていました。&lt;/p&gt;
+
+&lt;p&gt;当日は、自分にとってのロールモデルって何だろうという点での
+活発な意見交換が行われました。&lt;/p&gt;
+
+&lt;p&gt;その中では、
+「モデルってモデルなんだから、あってもいいんじゃないか」
+「参考には、するけれど、そのまま真似をするわけじゃない」
+「この人の生き方いいなぁと思うのはある」
+といって意見が多かったように思います。&lt;/p&gt;
+
+&lt;p&gt;私個人は、ロールモデルはあくまでもリファレンスだという考えです。
+参考になることもあるけど、ならないこともある。
+だから、参照モデルとしてのパターンを幅広くもって、
+自分の環境にあわせて選択できるのがいいんじゃないか、
+なんて思ったりします。&lt;/p&gt;
+
+&lt;p&gt;みなさんは、「ロールモデル」について、どう思いますか？&lt;/p&gt;
+
+&lt;p&gt;当日の資料はこちらからご覧いただけます。&lt;/p&gt;
+
+&lt;p&gt;WiTは2017年も、このようなオンラインでのランチミーティングを
+定期的に開催していきます。&lt;/p&gt;
+
+&lt;p&gt;ぜひ今年もWiTをよろしくお願いします。&lt;/p&gt;
+
+&lt;p&gt;（執筆：森本）&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Dec 2016 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Lunch-Talk/</link>
+        <guid isPermaLink="true">http://localhost:4000/Lunch-Talk/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>WiTクリスマス企画 「電子工作でクリスマス飾りを作ろう会 Vol.2」を開催しました</title>
+        <description>&lt;p&gt;昨年に引き続き、11月19日(土) の午後、
+アニメイトラボさんにて、WiTクリスマス企画
+&lt;strong&gt;「電子工作でクリスマス飾りを作ろう会 Vol.2」&lt;/strong&gt;
+を開催しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/wit.png&quot; alt=&quot;wit.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;昨年も開催し、大好評だったこの企画、
+今年も開催前からお問い合わせがある人気ぶりで、
+下は4歳から、上は小学5年生までの7組の親子と、enPiT関係者が3名、
+株式会社アニメイトラボの関係者5名の合計26名が参加し、
+和気藹々としたワークショップになりました。&lt;/p&gt;
+
+&lt;p&gt;ワークショップの進行は、公立はこだて未来大学の木塚あゆみ氏が担当。
+技術アドバイザーとしてenPiT修了者筑波大学生2名にも手伝ってもらいました。&lt;/p&gt;
+
+&lt;p&gt;光センサーのついたクリスマスハウスやツリーを作ったり（初級者コース）、
+Arduinoを使って、LEDライトと音を制御するプログラムを作ったり（上級者コース）&lt;/p&gt;
+
+&lt;p&gt;最後には完成作品を共有しながら全員で記念撮影。
+思い思いに工夫を凝らしたクリスマスハウスが並びました&lt;/p&gt;
+
+&lt;p&gt;終わってからは、お菓子を囲んで、
+参加者さんとざっくばらんな振り返りを行いました。&lt;/p&gt;
+
+&lt;p&gt;参加者の方からは&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;娘に電子回路に関心を持って欲しくて参加したのですがこういったものに触れる良い機会になりました&lt;/li&gt;
+  &lt;li&gt;子どもでも初心者でも楽しめる内容で良い経験になりました&lt;/li&gt;
+  &lt;li&gt;なかなか電気がつかなくてハラハラしたけどうまくいってよかった&lt;/li&gt;
+  &lt;li&gt;いい雰囲気でとても楽しい時間でした&lt;/li&gt;
+  &lt;li&gt;もっと時間をかけていろいろ作ってみたい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;との声が寄せられました。&lt;/p&gt;
+
+&lt;p&gt;電子工作を通じて、ITを身近なものに感じてもらえ、
+関心を持ってもらえたのではないでしょうか。&lt;/p&gt;
+
+&lt;p&gt;（執筆：森本）&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Nov 2016 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/Workshop/</link>
+        <guid isPermaLink="true">http://localhost:4000/Workshop/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
