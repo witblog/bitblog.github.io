@@ -21,11 +21,12 @@ enPiT女性部会 WiTで親御さん向けの電子工作ワークショップ�
 させて見ていたのもとても興味深く＾＾
 小学生姉妹がテキパキと工作していた姿に将来の活躍を垣間見た気がしました。
 
+![workshop17-02]({{site.baseurl}}/images/workshop17-02.jpg)
+
 今回は私がやってるMomStudeo（ママのプログラミングサロン）関連で
 きてくださった方もいました。（現/元）エンジニアだけではなくて、
 興味を持ってくださる保護者の幅がかなり広がってきたのを感じます。
 
-![workshop17-02]({{site.baseurl}}/images/workshop17-02.jpg)
 ![workshop17-03]({{site.baseurl}}/images/workshop17-03.jpg)
 
 （執筆：渡辺）
