@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coderetreat for Girls #2
+title: Coderetreat for Girls \#2
 img: coderetreat4g2.png 
 ---
 
