@@ -6,7 +6,7 @@ img: coderetreat4g2.png
 
 2018年6月30日、お茶の水女子大学を会場に、Coderetreat for Girls第2弾を開催しました。
 
-募集ページはこちらです。
+募集ページはこちらです。  
 <https://wit.connpass.com/event/86033/>
 
 ![coderetreat4g2.png]({{site.baseurl}}/images/coderetreat4g2.png)
